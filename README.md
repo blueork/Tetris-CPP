@@ -8,7 +8,7 @@ A graphical Tetris Game 🎮 🚀 made in C++ using SFML Graphics Library
      `sudo apt-get install g++`
   2. Ensure that you have the SFML Library, if not run the following command
 
-     `sudo apt-get install libsfml-dev1
+     `sudo apt-get install libsfml-dev1`
   3. Compile the game
 
      `g++ -c main.cpp`
